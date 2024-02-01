@@ -1,0 +1,22 @@
+/* MediaCard.css */
+
+.media-card {
+    max-width: 245px;
+  }
+  
+  .media-card-media {
+    height: 140px;
+  }
+  
+  .media-card-title {
+    /* Agrega estilos para el título aquí */
+  }
+  
+  .media-card-description {
+    /* Agrega estilos para la descripción aquí */
+  }
+  
+  .media-card-actions {
+    /* Agrega estilos para las acciones aquí */
+  }
+  
